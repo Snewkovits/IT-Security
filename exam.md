@@ -85,15 +85,15 @@ mount -o ro /dev/sdc1 /mnt
 
 10. Feladat
 Írja alá a /root/205403.txt állományt az alábbi privát kulcs segítségével. Használjon SHA 256 hash függvényt. Az aláírás a következő állományba kerüljön: /root/205403.sign!
-
-----BEGIN PRIVATE KEY-----
-MIIBOAIBAAJBAIdFbS0LphK2C2S0K2MOzjcqhoAeuGpzz+mgxQMwv+fjR6X1doom
-QYY6nL7IHGCkJ4yci6CJe8bWba7TLJ48E8sCAwEAAQJAK+oiE2mgtJpdAIhtPW9l
-CwvHNnjCreyDJvmGfA6rfoAQx45i+dSV88cJk1RfGzLi3yLaU5ncWnSrnnbYyMRI
-4QIhAPfAB26Bpd3QynH7RLfyYV4xJI+6Xrbs8aS6ovvpcQr3AiEAi8aPO/ZQW+hM
-iPj2Jsg9IWjgQz7RrpyQiJ2Gl2s9FM0CIEHtuAyQM7NzfGwYkZDhz0dhjHky/0Fu
-jF9pyzV+SbbBAh84yHFn6qi6raRqALn/B1nOOMzihKKqTPBqj5Qd73LhAiB73AUL
-XGVOJYu/fi44I3KSrYJ+gTJWFEcTwtInHZRzlg==
+<br>
+----BEGIN PRIVATE KEY-----<br>
+MIIBOAIBAAJBAIdFbS0LphK2C2S0K2MOzjcqhoAeuGpzz+mgxQMwv+fjR6X1doom<br>
+QYY6nL7IHGCkJ4yci6CJe8bWba7TLJ48E8sCAwEAAQJAK+oiE2mgtJpdAIhtPW9l<br>
+CwvHNnjCreyDJvmGfA6rfoAQx45i+dSV88cJk1RfGzLi3yLaU5ncWnSrnnbYyMRI<br>
+4QIhAPfAB26Bpd3QynH7RLfyYV4xJI+6Xrbs8aS6ovvpcQr3AiEAi8aPO/ZQW+hM<br>
+iPj2Jsg9IWjgQz7RrpyQiJ2Gl2s9FM0CIEHtuAyQM7NzfGwYkZDhz0dhjHky/0Fu<br>
+jF9pyzV+SbbBAh84yHFn6qi6raRqALn/B1nOOMzihKKqTPBqj5Qd73LhAiB73AUL<br>
+XGVOJYu/fi44I3KSrYJ+gTJWFEcTwtInHZRzlg==<br>
 -----END PRIVATE KEY-----
 
 ```bash
